@@ -6,29 +6,29 @@
 - ✨ Visita [startec-systems.com](https://startec-systems.com/)
 - ⚡ Enfocado en llegar a ser un desarollador Fullstack!
 
-Software developer with 4 years of experience building
-business systems, automation tools and web solutions.
+Desarrollador de software con 4 años de experiencia en la construcción de sistemas comerciales, 
+herramientas de automatización y soluciones web.
 
 ## 💻 Tech Stack
 
-- C#
+- Python
 - SQL Server
 - MySQL
 - SQLite
 - JavaScript
 - HTML / CSS
 
-## 🚀 Interests
+## 🚀 Intereses
 
-- Full Stack Development
-- Client–Server Architecture
-- Process Automation
-- Internet of Things (IoT)
+- Desarrollo FullStack
+- Arquitectura cliente-servidor
+- Automatización de procesos
+- Internet de las cosas (IoT)
 
-## 🧠 Learning
+## 🧠 Aprendizaje
 
-Currently improving my skills in full stack development
-and scalable system design.
+Actualmente estoy mejorando mis habilidades 
+en desarrollo full stack y diseño de sistemas escalables.
 
 <!---
 Isaac-Monted/Isaac-Monted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
