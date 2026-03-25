@@ -19,13 +19,9 @@ herramientas de automatización y soluciones web.
 - HTML / CSS
 
   
-### 🌙 Dark Mode
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Monted&show_icons=true&theme=dark)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=compact&theme=dark)
 
-### ☀️ Light Mode
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Monted&show_icons=true&theme=light)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=compact&theme=light)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=compact&theme=dark)
 
 ## 🚀 Intereses
 
