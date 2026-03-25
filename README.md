@@ -20,7 +20,6 @@ herramientas de automatización y soluciones web.
 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Monted&show_icons=true&theme=transparent&locale=es&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=donut&theme=transparent&locale=es)
 
 ## 🚀 Intereses
