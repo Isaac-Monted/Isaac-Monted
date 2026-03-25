@@ -19,8 +19,13 @@ herramientas de automatización y soluciones web.
 - HTML / CSS
 
   
-![GITHUB Stats](https://raw.githubusercontent.com/Isaac-Monted/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Isaac-Monted/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/Isaac-Monted/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Isaac-Monted/github-stats/master/generated/languages.svg#gh-light-mode-only)
+### 🌙 Dark Mode
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Monted&show_icons=true&theme=dark)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=compact&theme=dark)
+
+### ☀️ Light Mode
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-Monted&show_icons=true&theme=light)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Monted&layout=compact&theme=light)
 
 ## 🚀 Intereses
 
