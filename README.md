@@ -18,6 +18,10 @@ herramientas de automatización y soluciones web.
 - JavaScript
 - HTML / CSS
 
+  
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ## 🚀 Intereses
 
 - Desarrollo FullStack
